@@ -28,3 +28,11 @@ https://github.com/FastLED/FastLED
 
 Uso basico de la libreria FASTLED
 https://github.com/FastLED/FastLED/wiki/Basic-usage
+
+CONTROLAR LA MATRIZ CON WLED
+
+WLED es un firmware para dispositivos basados ​​en ESP32 que le permite controlar fácilmente los LED RGB (como NeoPixels) a través de WiFi.
+
+Esto puede ser realmente útil porque significa que no es necesario tener acceso físico al controlador para cambiar lo que se está reproduciendo. En este artículo, conectaremos una matriz de 16 × 16 a una placa ESP32 (la Smôl de SparkFun), la cargaremos en WLED y luego la controlaremos desde otra computadora en la red reproduciendo GIF animados.
+
+WLED tiene muchas funciones y puede usarse para crear todo tipo de efectos de iluminación que lucen maravillosos, pero que no usaremos en este tutorial de hoy. Sin embargo, si está instalando iluminación LED, vale la pena navegar por el sitio web del proyecto , kno.wled.ge. Una de las características realmente excelentes es lo fácil que es ponerlo en marcha. No necesita ninguna experiencia en programación ni ningún entorno de programación: simplemente apunte su navegador web a: install.wled.me . Si conecta su dispositivo ESP32 al puerto USB de su computadora y hace clic en Instalar, debería terminar con WLED instalado en su dispositivo.
