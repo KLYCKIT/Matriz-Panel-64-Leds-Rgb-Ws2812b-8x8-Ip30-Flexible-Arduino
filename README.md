@@ -29,6 +29,8 @@ https://github.com/FastLED/FastLED
 Uso basico de la libreria FASTLED
 https://github.com/FastLED/FastLED/wiki/Basic-usage
 
+
+
 CONTROLAR LA MATRIZ CON WLED
 
 WLED es un firmware para dispositivos basados ​​en ESP32 que le permite controlar fácilmente los LED RGB (como NeoPixels) a través de WiFi.
