@@ -36,3 +36,26 @@ CONTROLAR LA MATRIZ CON WLED
 WLED es un firmware para dispositivos basados ​​en ESP32 que le permite controlar fácilmente los LED RGB (como NeoPixels) a través de WiFi.
 
 WLED tiene muchas funciones y puede usarse para crear todo tipo de efectos de iluminación que lucen maravillosos, pero que no usaremos en este tutorial de hoy. Sin embargo, si está instalando iluminación LED, vale la pena navegar por el sitio web del proyecto , [kno.wled.ge](https://kno.wled.ge/). Una de las características realmente excelentes es lo fácil que es ponerlo en marcha. No necesita ninguna experiencia en programación ni ningún entorno de programación: simplemente apunte su navegador web a: [install.wled.me](https://install.wled.me/) . Si conecta su dispositivo ESP32 al puerto USB de su computadora y hace clic en Instalar, debería terminar con WLED instalado en su dispositivo.
+
+
+VIDEOS EJEMPLO WLED MOON MODULES
+
+https://www.youtube.com/watch?v=8PdxLUhMLfI
+
+https://www.youtube.com/watch?v=7Es6_Gxa0m8
+
+
+
+VIDEOS EJEMPLO CONTROLADOR SP801E
+
+https://www.youtube.com/watch?v=5s3NFVL8w2k
+
+https://www.youtube.com/watch?v=ERn-CAwziUM
+
+
+
+VIDEOS EJEMPLO CONTROLADOR AUDIO RITMICO
+
+https://www.youtube.com/watch?v=hPRsDhhH45Y
+
+https://www.youtube.com/watch?v=kJ7e3q0cyD4
